@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Azeemuddin Mohammed</h1>
 <h3 align="center">An Engineer from UK, passionate about Cloud, Cloud Automation and DevOps</h3>
 
-- 💬 Ask me about **AWS, OCI, Azure,GCP, Terraform, Ansible, Jenkins etc**
+- 💬 Ask me about **AWS, OCI, Azure, GCP, Terraform, Linux, Ansible, Jenkins, Prometheus, Grafana etc**
 
-- 📫 How to reach me **azeem_parvez@hotmail.com**
+- 📫 You can reach me on **azeem_parvez@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
